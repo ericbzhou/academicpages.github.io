@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Eric Zhou"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "MBA Candidate, Tepper School of Business"
   location         : "Pittsburgh, PA"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/ericbzhou/"
+  linkedin         : "ericbzhou/"
   orcid            : 
   pinterest        :
   soundcloud       :
