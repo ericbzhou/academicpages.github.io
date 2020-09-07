@@ -15,7 +15,7 @@ Interests
 
 Current Projects
 ------
-1. **Hypothesis Development with Unstructured Data Via Interpretable Machine Learning**.
+1. **Hypothesis Development with Unstructured Data Via Interpretable Machine Learning**. <br/>
 Dokyun Lee, Eric Zhou, Chengfeng Mao. Accepted to MISQ Author Workshop 2020. <br/>
 >"Recent advances in Interpretable Machine Learning offer potential flexible, scalable solutions to augment novel hypothesis development, especially with exponential growth in unstructured data. We demonstrate by applying a novel IML algorithm on three datasets to reproduce theory-driven insights from literature."
 
