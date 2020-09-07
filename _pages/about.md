@@ -14,19 +14,18 @@ Prior to Tepper, I graduated from Washington University in St. Louis with degree
 
 My Research Interests
 ------
-Methodologically, I am interested in developing human-computer collaboration paradigms and new technology to gracefully integrate human-machine workflows in managerial and social settings.
+**Methodologically**, I am interested in developing human-computer collaboration paradigms and new technology to gracefully integrate human-machine workflows in managerial and social settings.
 
-Substantively, I seek to apply human-computer interaction models to solve provocative problems in ethics, human-machine symbiosis, and information democracy to reach better social and managerial outcomes.
+**Substantively**, I seek to apply human-computer interaction models to solve provocative problems in ethics, human-machine symbiosis, and information democracy to reach better social and managerial outcomes.
 
 
 Working Papers
 ------
-**Hypothesis Development with Unstructured Data Via Interpretable Machine Learning**
+**Hypothesis Development with Unstructured Data Via Interpretable Machine Learning**.
+Dokyun Lee, Eric Zhou, Chengfeng Mao. Accepted to MISQ Author Workshop, 2020.
 
-Dokyun Lee, Eric Zhou, Chengfeng Mao
+	“Recent advances in Interpretable Machine Learning offer potential flexible, scalable solutions to augment novel hypothesis development, especially with exponential growth in unstructured data. We demonstrate by applying a novel IML algorithm on three datasets to reproduce theory-driven insights from literature.”
 
-Accepted to MISQ Author Workshop, 2020.
-
-Ongoing Projects
+On-Going Projects
 ------
 *WIP*

@@ -13,16 +13,27 @@ redirect_from:
 
 Education
 ------
-* MBA, concentration in Business Analytics, Carnegie Mellon University Tepper School of Business, Expected 2021
-* BS in Finance and Marketing, Washington University in St. Louis Olin Business School, 2018
+* M.B.A., concentration in Business Analytics
+
+Carnegie Mellon University Tepper School of Business, Expected 2021
+
+* B.S. in Finance and Marketing
+
+Washington University in St. Louis Olin Business School, 2018
 
 
 Research Experience
 ------
-* 2020 - Present	**Graduate Research Assistant** at Carnegie Mellon University
+* 2020 - Present	**Graduate Research Assistant**
+
+	Carnegie Mellon University
+
 	Advised by Professor Dokyun Lee
 
-* Summer 2016	**Undergraduate Research Assistant** at Washington University in St. Louis
+* Summer 2016	**Undergraduate Research Assistant**
+
+	Washington University in St. Louis
+	
 	Advised by Professor David Meyer
 
 Industry Experience
@@ -35,21 +46,28 @@ Industry Experience
   
 Skills
 ------
-## Computer
+### Computer
 Basic: Java, Tableau, AIMMS
+
 Proficient: Python, R, SQL, Excel, LaTeX
 
-## Language
+### Language
 English: Native
+
 Mandarin: Proficient
+
 French: Proficient
 
 Honors & Awards
 ------
 May 2019	Tepper School of Business merit-based scholarship
+
 Feb. 2019	Nielsen BASES Client Service Superstar Award
+
 Nov. 2014	2nd place, Olin Foundations of Business Product Design Competition
+
 May 2014	Xerox Award for Innovation & Information Technology
+
 June 2013	1st place in nation, Database Design & Applications at FBLA National Leadership Conference
 
 <!---

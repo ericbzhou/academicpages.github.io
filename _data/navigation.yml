@@ -3,7 +3,7 @@ main:
   - title: "About Me"
     url: /about/
     
-  - title: "Research"
+  - title: "Projects"
     url: /publications/
 
   #- title: "Talks"
