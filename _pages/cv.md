@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,33 +9,50 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my CV here.](http://ericbzhou.github.io/files/ebzhou_cv9620.pdf)
+
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+------
+* MBA, concentration in Business Analytics, Carnegie Mellon University Tepper School of Business, Expected 2021
+* BS in Finance and Marketing, Washington University in St. Louis Olin Business School, 2018
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research Experience
+------
+* 2020 - Present	**Graduate Research Assistant** at Carnegie Mellon University
+	Advised by Professor Dokyun Lee
+
+* Summer 2016	**Undergraduate Research Assistant** at Washington University in St. Louis
+	Advised by Professor David Meyer
+
+Industry Experience
+------
+* 2018 - 2019	**Market Research Analyst** at Nielsen BASES
+
+* Summer 2017	**Business Development Intern** at Missouri Historical Society
+ 
+* Summer 2015	**Information Technology Intern** at Merck
   
 Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+------
+## Computer
+Basic: Java, Tableau, AIMMS
+Proficient: Python, R, SQL, Excel, LaTeX
 
+## Language
+English: Native
+Mandarin: Proficient
+French: Proficient
+
+Honors & Awards
+------
+May 2019	Tepper School of Business merit-based scholarship
+Feb. 2019	Nielsen BASES Client Service Superstar Award
+Nov. 2014	2nd place, Olin Foundations of Business Product Design Competition
+May 2014	Xerox Award for Innovation & Information Technology
+June 2013	1st place in nation, Database Design & Applications at FBLA National Leadership Conference
+
+<!---
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -57,3 +74,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->

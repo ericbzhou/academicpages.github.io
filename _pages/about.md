@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome! My name is Eric Zhou."
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,18 +12,21 @@ I am a second year MBA student with a concentration in Business Analytics at the
 
 Prior to Tepper, I graduated from Washington University in St. Louis with degrees in Finance and Marketing in 2018. Post-graduation, I worked as an analyst at a large market research firm where I consulted for CPG clients seeking to innovate on their products.
 
-My Interests
+My Research Interests
 ------
 Methodologically, I am interested in developing human-computer collaboration paradigms and new technology to gracefully integrate human-machine workflows in managerial and social settings.
 
 Substantively, I seek to apply human-computer interaction models to solve provocative problems in ethics, human-machine symbiosis, and information democracy to reach better social and managerial outcomes.
 
+
 Working Papers
 ------
-*Hypothesis Development with Unstructured Data Via Interpretable Machine Learning*
+**Hypothesis Development with Unstructured Data Via Interpretable Machine Learning**
+
 Dokyun Lee, Eric Zhou, Chengfeng Mao
+
 Accepted to MISQ Author Workshop, 2020.
 
 Ongoing Projects
 ------
-*Include FCM stuff
+*WIP*
