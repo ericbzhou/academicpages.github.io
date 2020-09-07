@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year MBA student in Business Analytics with concentrations in Business Technology and Operations Research at the Tepper School of Business of Carnegie Mellon University. I am advised by Professor [Dokyun Lee](https://www.leedokyun.com/).
+I am a second year MBA candidate studying Business Analytics with concentrations in Business Technology and Operations Research at the Tepper School of Business of Carnegie Mellon University. I am advised by Professor [Dokyun Lee](https://www.leedokyun.com/).
 
 I will be applying to PhD programs in Quantitative Marketing and Information Systems for Fall 2021 entry.
 
