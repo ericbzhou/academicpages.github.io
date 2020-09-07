@@ -21,10 +21,10 @@ My Research Interests
 
 Working Papers
 ------
-**Hypothesis Development with Unstructured Data Via Interpretable Machine Learning**.
-Dokyun Lee, Eric Zhou, Chengfeng Mao. Accepted to MISQ Author Workshop, 2020.
+*Hypothesis Development with Unstructured Data Via Interpretable Machine Learning*.
+Dokyun Lee, **Eric Zhou**, Chengfeng Mao. Accepted to MISQ Author Workshop, 2020.
 
-	“Recent advances in Interpretable Machine Learning offer potential flexible, scalable solutions to augment novel hypothesis development, especially with exponential growth in unstructured data. We demonstrate by applying a novel IML algorithm on three datasets to reproduce theory-driven insights from literature.”
+"Recent advances in Interpretable Machine Learning offer potential flexible, scalable solutions to augment novel hypothesis development, especially with exponential growth in unstructured data. We demonstrate by applying a novel IML algorithm on three datasets to reproduce theory-driven insights from literature."
 
 On-Going Projects
 ------

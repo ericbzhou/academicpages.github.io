@@ -13,62 +13,48 @@ redirect_from:
 
 Education
 ------
-* M.B.A., concentration in Business Analytics
-
+* M.B.A., concentration in Business Technology, Operations Research <br/>
+Business Analytics Track <br/>
 Carnegie Mellon University Tepper School of Business, Expected 2021
 
-* B.S. in Finance and Marketing
-
+* B.S. in Finance and Marketing <br/>
 Washington University in St. Louis Olin Business School, 2018
 
 
 Research Experience
 ------
-* 2020 - Present	**Graduate Research Assistant**
-
-	Carnegie Mellon University
-
+* 2020 - Present	**Graduate Research Assistant** <br/>
+	Carnegie Mellon University <br/>
 	Advised by Professor Dokyun Lee
 
-* Summer 2016	**Undergraduate Research Assistant**
-
-	Washington University in St. Louis
-	
+* Summer 2016	**Undergraduate Research Assistant** <br/>
+	Washington University in St. Louis <br/>
 	Advised by Professor David Meyer
 
 Industry Experience
 ------
 * 2018 - 2019	**Market Research Analyst** at Nielsen BASES
-
 * Summer 2017	**Business Development Intern** at Missouri Historical Society
- 
 * Summer 2015	**Information Technology Intern** at Merck
   
 Skills
 ------
 ### Computer
-Basic: Java, Tableau, AIMMS
-
+Basic: Java, Tableau, AIMMS <br/>
 Proficient: Python, R, SQL, Excel, LaTeX
 
 ### Language
-English: Native
-
-Mandarin: Proficient
-
-French: Proficient
+English: Native <br/>
+Mandarin: Proficient <br/>
+French: Proficient <br/>
 
 Honors & Awards
 ------
-May 2019	Tepper School of Business merit-based scholarship
-
-Feb. 2019	Nielsen BASES Client Service Superstar Award
-
-Nov. 2014	2nd place, Olin Foundations of Business Product Design Competition
-
-May 2014	Xerox Award for Innovation & Information Technology
-
-June 2013	1st place in nation, Database Design & Applications at FBLA National Leadership Conference
+May 2019 - Tepper School of Business merit-based scholarship
+Feb. 2019 - Nielsen BASES Client Service Superstar Award
+Nov. 2014 - 2nd place, Olin Foundations of Business Product Design Competition
+May 2014 - Xerox Award for Innovation & Information Technology
+June 2013 - 1st place in nation, Database Design & Applications at FBLA National Leadership Conference
 
 <!---
 Publications

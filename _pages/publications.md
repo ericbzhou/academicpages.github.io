@@ -16,7 +16,7 @@ Interests
 Current Projects
 ------
 1. **Hypothesis Development with Unstructured Data Via Interpretable Machine Learning**.
-Dokyun Lee, Eric Zhou, Chengfeng Mao. Accepted to MISQ Author Workshop, 2020.
+Dokyun Lee, Eric Zhou, Chengfeng Mao. Accepted to MISQ Author Workshop 2020.
 
 2. [Focused Concept Miner User Guide](FCMiner.com) for alpha/beta release.
 [GitHub Link](https://github.com/cygit/fcm)
