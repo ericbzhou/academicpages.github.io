@@ -7,4 +7,4 @@ redirect_from:
   - /contact
 ---
 
-Email: ebzhou(at)tepper(dot)cmu(dot)edu
+Feel free to reach out to me with any inquiries at: ebzhou@tepper.cmu.edu

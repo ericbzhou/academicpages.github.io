@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Projects"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
-Research Interests
+Interests
 ------
 * Human-computer collaboration
 * Welfare impacts of intelligent agents
@@ -15,12 +15,11 @@ Research Interests
 
 Current Projects
 ------
-**[Focused Concept Miner User Guide](FCMiner.com)**
-
-[GitHub Link](https://github.com/cygit/fcm)
-
-**Hypothesis Development with Unstructured Data Via Interpretable Machine Learning**.
+1. **Hypothesis Development with Unstructured Data Via Interpretable Machine Learning**.
 Dokyun Lee, Eric Zhou, Chengfeng Mao. Accepted to MISQ Author Workshop, 2020.
+
+2. [Focused Concept Miner User Guide](FCMiner.com) for alpha/beta release.
+[GitHub Link](https://github.com/cygit/fcm)
 
 <!---
 {% if author.googlescholar %}
