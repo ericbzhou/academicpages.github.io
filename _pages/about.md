@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year MBA student with a concentration in Business Analytics at the Tepper School of Business of Carnegie Mellon University. I am advised by Professor [Dokyun Lee](https://www.leedokyun.com/). <br/>
-I will be applying to PhD programs for Fall 2021 entry. <br/>
+I am a second year MBA student with a concentration in Business Analytics at the Tepper School of Business of Carnegie Mellon University. I am advised by Professor [Dokyun Lee](https://www.leedokyun.com/).
+
+I will be applying to PhD programs for Fall 2021 entry.
+
 Prior to Tepper, I graduated from Washington University in St. Louis with degrees in Finance and Marketing in 2018. Post-graduation, I worked as an analyst at a large market research firm where I consulted for CPG clients seeking to innovate on their products.
 
 My Research Interests
@@ -23,3 +25,6 @@ On-Going Projects
 *Hypothesis Development with Unstructured Data Via Interpretable Machine Learning*. <br/>
 Dokyun Lee, **Eric Zhou**, Chengfeng Mao. Accepted to MISQ Author Workshop, 2020. <br/>
 >*"Recent advances in Interpretable Machine Learning offer potential flexible, scalable solutions to augment novel hypothesis development, especially with exponential growth in unstructured data. We demonstrate by applying a novel IML algorithm on three datasets to reproduce theory-driven insights from literature."*
+
+News
+------
