@@ -20,7 +20,7 @@ My Research Interests
 ------
 **Methodologically**, I am interested in developing human-computer collaboration paradigms and new technology to gracefully integrate human-machine workflows in managerial and social settings.
 
-**Substantively**, I seek to apply human-computer interaction models to solve provocative problems in ethics, human-machine symbiosis, and information democracy to reach better social and managerial outcomes.
+**Substantively**, I seek to apply human-computer interaction systems to solve provocative problems in ethics, human-machine symbiosis, and information democracy to reach better social and managerial outcomes.
 
 
 Current Projects
