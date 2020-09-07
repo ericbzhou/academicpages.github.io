@@ -23,19 +23,19 @@ Washington University in St. Louis Olin Business School, 2018
 
 Research Experience
 ------
-* 2020 - Present	**Graduate Research Assistant** <br/>
+* 2020 - Present: **Graduate Research Assistant** <br/>
 	Carnegie Mellon University <br/>
 	Advised by Professor Dokyun Lee
 
-* Summer 2016	**Undergraduate Research Assistant** <br/>
+* Summer 2016: **Undergraduate Research Assistant** <br/>
 	Washington University in St. Louis <br/>
 	Advised by Professor David Meyer
 
 Industry Experience
 ------
-* 2018 - 2019	**Market Research Analyst** at Nielsen BASES
-* Summer 2017	**Business Development Intern** at Missouri Historical Society
-* Summer 2015	**Information Technology Intern** at Merck
+* 2018 - 2019: **Market Research Analyst** at Nielsen BASES
+* Summer 2017: **Business Development Intern** at Missouri Historical Society
+* Summer 2015: **Information Technology Intern** at Merck
   
 Skills
 ------
@@ -50,10 +50,10 @@ French: Proficient <br/>
 
 Honors & Awards
 ------
-May 2019 - Tepper School of Business merit-based scholarship
-Feb. 2019 - Nielsen BASES Client Service Superstar Award
-Nov. 2014 - 2nd place, Olin Foundations of Business Product Design Competition
-May 2014 - Xerox Award for Innovation & Information Technology
+May 2019 - Tepper School of Business merit-based scholarship <br/>
+Feb. 2019 - Nielsen BASES Client Service Superstar Award <br/>
+Nov. 2014 - 2nd place, Olin Foundations of Business Product Design Competition <br/>
+May 2014 - Xerox Award for Innovation & Information Technology <br/>
 June 2013 - 1st place in nation, Database Design & Applications at FBLA National Leadership Conference
 
 <!---
