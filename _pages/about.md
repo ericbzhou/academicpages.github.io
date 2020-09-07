@@ -14,7 +14,7 @@ I will be applying to PhD programs in Quantitative Marketing and Information Sys
 
 Prior to Tepper, I graduated from Washington University in St. Louis with degrees in Finance and Marketing in 2018. Post-graduation, I worked as an analyst at a large market research firm where I consulted for CPG clients seeking to innovate on their products.
 
-I am a self-learned Machine Learning and Deep Learning practitioner. A future goal of mine is to make Machine Learning accessible to students and professionals from all backgrounds. With a deeper pool of collective intelligence in the field, I believe we can improve the overall human experience.
+I am a self-learned Machine Learning and Deep Learning practitioner. A future goal of mine is to make Machine Learning accessible to students and professionals from all backgrounds. With a deeper pool of collective intelligence across discplines, I believe we can improve the human experience in many more applications of human-computer interaction.
 
 My Research Interests
 ------
