@@ -9,8 +9,9 @@ Interests
 ------
 * Human-computer collaboration
 * Welfare impacts of intelligent agents
-* Technology-enabled decision making
 * Data ethics in mobile marketing and commerce
+* Collective intelligence
+* Ubiquitous computing
 * Information democracy
 
 Current Projects
