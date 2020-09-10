@@ -14,7 +14,7 @@ I will be applying to PhD programs in Quantitative Marketing and Information Sys
 
 Prior to Tepper, I graduated from [Washington University in St. Louis](https://wustl.edu/) with degrees in Finance and Marketing from the [Olin Business School](https://olin.wustl.edu/EN-US/Pages/default.aspx) in 2018. Post-graduation, I worked as an analyst at a large market research firm where I consulted for CPG clients seeking to innovate on their products.
 
-I am a self-learned Machine Learning and Deep Learning practitioner. A future goal of mine is to make Machine Learning accessible to students and professionals from all backgrounds. With a broader pool of collective intelligence across discplines, I believe we can improve the human experience through a deeper understanding of the world.
+I am a self-learned Machine Learning and Deep Learning practitioner. A future goal of mine is to make Machine Learning accessible to students and professionals from all backgrounds. With a broader pool of collective intelligence across disciplines, I believe we can improve the human experience through a deeper understanding of the world.
 
 My Research Interests
 ------
