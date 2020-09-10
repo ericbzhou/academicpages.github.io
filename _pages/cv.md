@@ -17,7 +17,7 @@ Education
 Concentration in Business Technology & Operations Research, Business Analytics Track <br/>
 **Carnegie Mellon University Tepper School of Business**, Expected 2021
 
-* B.S. in Finance and Marketing <br/>
+* B.S.B.A. in Finance and Marketing <br/>
 **Washington University in St. Louis Olin Business School**, 2018
 
 
