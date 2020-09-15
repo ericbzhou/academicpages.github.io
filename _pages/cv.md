@@ -23,7 +23,7 @@ Concentration in Business Technology & Operations Research, Business Analytics T
 
 Research Experience
 ------
-* 2020 - Present: **Graduate Research Assistant** <br/>
+* January 2020 - Present: **Graduate Research Assistant** <br/>
 	Carnegie Mellon University <br/>
 	Advised by Professor Dokyun Lee
 
@@ -33,7 +33,7 @@ Research Experience
 
 Industry Experience
 ------
-* 2018 - 2019: **Market Research Analyst** at Nielsen BASES
+* July 2018 - May 2019: **Market Research Analyst** at Nielsen BASES
 * Summer 2017: **Business Development Intern** at Missouri Historical Society
 * Summer 2015: **Information Technology Intern** at Merck
   
@@ -77,5 +77,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
 -->
