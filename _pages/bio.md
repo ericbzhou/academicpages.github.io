@@ -21,6 +21,6 @@ Additionally, I'm interested in how the rise of ubiquitous computing will define
 
 **Quick Facts**
 ------
-* I love hip hop/urban dance, but made my start in the hobby with K-Pop dance at WashU.
-* In my free time, I enjoy dancing, working out, playing basketball, and cooking/baking.
-* I grew up in suburban Philadelphia (but have only been to the city less than 10 times).
+* I love hip hop/urban dance, but made my start in the hobby with K-Pop dance at WashU. I've taught dance workshops and am interested in choreographing my own piece someday.
+* My interests include dance, working out, basketball, and cooking/baking.
+* I grew up in suburban Philadelphia.
