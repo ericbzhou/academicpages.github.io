@@ -40,7 +40,7 @@ Industry Experience
 Skills
 ------
 ### Computer
-Basic: Java, Tableau, AIMMS <br/>
+Basic: Java, Tableau, AIMMS, Gurobi, Julia <br/>
 Proficient: Python, R, SQL, Excel, LaTeX
 
 ### Language
@@ -53,6 +53,7 @@ Honors & Awards
 May 2019 - Tepper School of Business merit-based scholarship <br/>
 Feb. 2019 - Nielsen BASES Client Service Superstar Award <br/>
 Nov. 2014 - 2nd place, Olin Foundations of Business Product Design Competition <br/>
+May 2014 - Olin Business School merit-based scholarship <br/>
 May 2014 - Xerox Award for Innovation & Information Technology <br/>
 June 2013 - 1st place in nation, Database Design & Applications at FBLA National Leadership Conference
 
