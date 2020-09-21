@@ -20,6 +20,7 @@ Through research with DK, I grew fascinated by topics that involve human-AI coll
 Likewise, I'm interested in how the rise of ubiquitous computing will define the future of the human experience, especially with regards to ethics, human-machine symbiosis, and information democracy.
 
 **Quick Facts**
+------
 * I love hip hop/urban dance, but made my start in the hobby with K-Pop dance at WashU.
 * In my free time, I enjoy dancing, working out, playing basketball, and cooking/baking.
 * I grew up in suburban Philadelphia.
