@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year MBA candidate studying Business Analytics with concentrations in Business Technology and Operations Research at the [Tepper School of Business of Carnegie Mellon University](https://www.cmu.edu/tepper/index.html). I am advised by Professor [Dokyun Lee](https://www.leedokyun.com/).
+I am a second year MBA candidate studying Business Analytics with concentrations in Business Technology and Operations Research at the [Tepper School of Business at Carnegie Mellon University](https://www.cmu.edu/tepper/index.html). I am advised by Professor [Dokyun Lee](https://www.leedokyun.com/).
 
-I will be applying to PhD programs in Quantitative Marketing and Information Systems for Fall 2021 entry.
+I will be applying to PhD programs for Fall 2021 entry.
 
 Prior to Tepper, I graduated from [Washington University in St. Louis](https://wustl.edu/) with degrees in Finance and Marketing from the [Olin Business School](https://olin.wustl.edu/EN-US/Pages/default.aspx) in 2018. Post-graduation, I worked as an analyst at a large market research firm where I consulted for CPG clients seeking to innovate on their products.
 
