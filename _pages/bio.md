@@ -12,7 +12,7 @@ I hold a Bachelor's degree in Finance and Marketing from Washington University i
 I previously worked at Nielsen BASES as a market research analyst.
 In a quick turn of events, I was inspired to pursue an MBA at Tepper to become a leader of technological change in industry.
 
-Seeking a technical and theoretical understanding of cutting edge anaytical techniques, I engaged in independent study with Professor DK.
+Seeking a technical and theoretical understanding of cutting edge analytical techniques, I engaged in independent study with Professor DK.
 I quickly fell in love with the pursuit of knowledge creation and extraction from Big Data and deepening our understanding of the world.
 In another turn of events, I was inspired to pursue a PhD.
 
