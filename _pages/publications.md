@@ -20,7 +20,7 @@ Current Projects
 Dokyun Lee, **Eric Zhou**, Chengfeng Mao. Accepted to MISQ Author Workshop 2020. Work in progress. <br/>
 >"Recent advances in Interpretable Machine Learning (IML) offer potential flexible, scalable solutions to augment novel hypothesis development, especially with exponential growth in unstructured data. We demonstrate by applying a novel IML algorithm on three datasets to reproduce theory-driven insights from literature."
 
-1. [Focused Concept Miner User Guide](https://github.com/cygit/fcm) for alpha/beta release. See [the original paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3304756), *Focused Concept Miner (FCM): Interpretable Deep Learning for Text Exploration* for details. *Work in progress.*
+1. [Focused Concept Miner User Guide](https://github.com/ericbzhou/fcm_cli_guide) for alpha/beta release. See [the original paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3304756), *Focused Concept Miner (FCM): Interpretable Deep Learning for Text Exploration* and [FCMiner.com](http://fcminer.com/) for details.
 
 <!---
 {% if author.googlescholar %}
