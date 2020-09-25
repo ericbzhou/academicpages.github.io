@@ -10,7 +10,7 @@ Interests
 * Human-computer collaboration
 * Welfare impacts of intelligent agents
 * Collective intelligence and human-AI creativity
-* Data ethics in mobile marketing and commerce
+* Information ethics in mobile marketing and social media
 * Ubiquitous computing
 * Information democracy
 
