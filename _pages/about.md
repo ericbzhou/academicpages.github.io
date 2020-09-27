@@ -34,4 +34,4 @@ Dokyun Lee, **Eric Zhou**, Chengfeng Mao, Gerald kane. Accepted to MISQ Author W
 
 News
 ------
-9/21/20 - Focused Concept Miner Command Line Interface and User Guide & Demonstration has been publicly released! Learn more at [FCMiner.com](http://fcminer.com/).
+9/21/20 - Focused Concept Miner Command Line Interface and User Guide & Demonstration have been publicly released! Learn more at [FCMiner.com](http://fcminer.com/).
