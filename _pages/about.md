@@ -28,7 +28,7 @@ Additionally, I am eager to formalize models of human-AI creativity to improve h
 
 Current Projects
 ------
-1. Dokyun Lee, **Eric Zhou**, Chengfeng Mao, Gerald Kane.*Interpretable Machine Learning Can Be Useful Tools For Theory Building: A Human-AI Collaboration*. <br/>
+1. Dokyun Lee, **Eric Zhou**, Chengfeng Mao, Gerald Kane. *Interpretable Machine Learning Can Be Useful Tools For Theory Building: A Human-AI Collaboration*. <br/>
 Accepted to MISQ Author Workshop 2020. *Work in progress.* <br/>
 >*"Recent advances in Interpretable Machine Learning (IML) offer potential flexible, scalable solutions to augment novel hypothesis development, especially with exponential growth in unstructured data. We demonstrate by applying a novel IML algorithm on three datasets to reproduce theory-driven insights from literature."*
 
