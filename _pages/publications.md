@@ -10,9 +10,9 @@ Interests
 * Human-computer collaboration
 * Welfare impacts of intelligent agents
 * Collective intelligence, human-AI intelligence and creativity
-* AI mediation in marketing and social media
 * Ubiquitous computing
-* Information democracy
+* AI-driven product ideation
+* AI mediation in marketing and social media
 
 Current Projects
 ------

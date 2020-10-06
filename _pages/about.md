@@ -19,10 +19,11 @@ I am a self-learned Machine Learning and Deep Learning practitioner. A future go
 My Research Interests
 ------
 **Methodologically**, I am interested in developing human-computer collaboration paradigms and new technology to ethically and sustainably integrate human-machine capabilities in managerial and social settings.
+Specific applications include AI-driven product ideation and consumer-AI interaction in the mobile economy.
 
-**Substantively**, I seek to apply human-computer collaboration systems to address provocative problems in information ethics, human-machine symbiosis, and information democracy to reach better social and managerial outcomes.
+**Substantively**, I seek to apply human-computer collaboration systems to address provocative problems in human-machine symbiosis and advance collective intelligence to reach better social and managerial outcomes.
 
-Additionally, I am eager to formalize models of human-AI creativity to improve human problem-solving and innovation.
+Additionally, I am eager to formalize models of human-AI collaboration to enhance human decision making and creative thinking.
 
 **Philosophically**, I believe that a human-centric approach to operationalizing pervasive, intimate systems can transform social and economic interactions to increase welfare.
 
