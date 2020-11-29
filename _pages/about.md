@@ -3,9 +3,6 @@ permalink: /
 title: "Welcome"
 excerpt: "home"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 I am a second year MBA candidate studying Business Analytics with concentrations in Business Technology and Operations Research at the [Tepper School of Business](https://www.cmu.edu/tepper/index.html) at [Carnegie Mellon University](https://www.cmu.edu/). I am advised by Professor [Dokyun Lee](https://www.leedokyun.com/).
