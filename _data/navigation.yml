@@ -2,9 +2,6 @@
 main:
   - title: "Home"
     url: /about/
-    
-  - title: "Bio"
-    url: /bio/
 
   - title: "Research"
     url: /research/
