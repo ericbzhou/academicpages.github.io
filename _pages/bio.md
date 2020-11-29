@@ -19,8 +19,4 @@ In another turn of events, I was inspired to pursue a PhD.
 Through research with DK, I grew fascinated by topics that involve human-AI collaboration, specifically leveraging AI as intellectual partners and human-AI creativity.
 Additionally, I'm interested in how the rise of ubiquitous computing will define the future of the human experience, especially with regards to ethics, human-machine symbiosis, and information democracy.
 
-**Quick Facts**
-------
-* I grew up in the Philadelphia area.
-* I love hip hop/urban dance, but made my start in the hobby with K-Pop dance at WashU. I've taught dance workshops and am interested in choreographing my own piece someday.
-* My interests include dance, working out, basketball, and cooking/baking.
+Outside of the classroom, I am an active member of the dance community, both at WashU and Carnegie Mellon, where I've taught workshops and led performance groups.
