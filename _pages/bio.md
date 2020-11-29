@@ -3,8 +3,6 @@ layout: archive
 title: "Bio"
 permalink: /bio/
 author_profile: true
-redirect_from:
-  - /bio
 ---
 Currently, I am an MBA student at Carnegie Mellon University's Tepper School of Business.
 I hold a Bachelor's degree in Finance and Marketing from Washington University in St. Louis (2018). 
