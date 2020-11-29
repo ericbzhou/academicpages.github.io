@@ -21,11 +21,11 @@ main:
   #- title: "Blog Posts"
     #url: /year-archive/
     
-  - title: "CV"
-    url: [CV](http://ericbzhou.github.io/files/ebzhou_cv.pdf)
+  # - title: "CV"
+    url: /cv/
     
   #- title: "Guide"
     #url: /markdown/
     
-  #- title: "Contact Me"
+  - title: "Contact Me"
     url: /contact/

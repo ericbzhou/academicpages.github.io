@@ -16,6 +16,8 @@ Prior to Tepper, I graduated from [Washington University in St. Louis](https://w
 
 I am a self-learned Machine Learning and Deep Learning practitioner. A future goal of mine is to make Machine Learning accessible to students and professionals from all backgrounds. With a broader pool of collective intelligence across disciplines, I believe we can improve the human experience through a deeper understanding of the world.
 
+You can download my CV [here](http://ericbzhou.github.io/files/ebzhou_cv.pdf).
+
 My Research Interests
 ------
 **Methodologically**, I am interested in developing human-computer collaboration paradigms and new technology to ethically and sustainably integrate human and AI intelligence to improve managerial decision making and policy design.
